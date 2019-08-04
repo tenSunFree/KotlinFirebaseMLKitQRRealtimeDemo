@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "977861380606",
+    "firebase_url": "https://chatbot2-c4040.firebaseio.com",
+    "project_id": "chatbot2-c4040",
+    "storage_bucket": "chatbot2-c4040.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:977861380606:android:6f06c922619bde36",
+        "android_client_info": {
+          "package_name": "com.home.kotlinfirebasemlkitqrrealtimedemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "977861380606-jghr78es36d9edb36j8gk2h1cbs3mog2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.home.kotlinfirebasemlkitqrrealtimedemo",
+            "certificate_hash": "fd19c9b55f32103910e216a234a26038ff4254fa"
+          }
+        },
+        {
+          "client_id": "977861380606-evbko6983cdfddfu2a6u82nn6epcuvn7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBxesSNHLdVBonS7vS1PcRp1DElioQ40aI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "977861380606-evbko6983cdfddfu2a6u82nn6epcuvn7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
